@@ -1,2 +1,6 @@
 research.md
 bin/mongodb-*/*
+node_modules/
+package-lock*.*
+package.json
+bin/kafka*/*
